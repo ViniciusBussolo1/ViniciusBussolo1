@@ -3,7 +3,7 @@
   Estudante front-end tentando ser um desenvolvedor 💻
 
 - 🎓 Sou formado em Ciência da computação. 
-- 📚 Estou estudando ReactJS, JavaScript, TypeScript. 
+- 📚 Estou estudando NextJS, ReactJS, JavaScript, TypeScript. 
 
 <br>
 
