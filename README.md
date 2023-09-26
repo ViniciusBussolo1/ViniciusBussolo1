@@ -1,9 +1,9 @@
 ### Ola! Me chamo Vinicius Bussolo 👋
 
-  Estudante front-end tentando ser um desenvolvedor 💻
+ Desenvolvedor Front-end 💻
 
 - 🎓 Sou formado em Ciência da computação. 
-- 📚 Estou estudando NextJS, ReactJS, JavaScript, TypeScript. 
+- 📚 Estou estudando Jest, NextJS, TypeScript. 
 
 <br>
 
